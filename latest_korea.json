@@ -1,0 +1,122 @@
+{
+  "VAPT Insights v2.0": {
+    "name": "VAPT Insights v2.0",
+    "korea_score": 5,
+    "score_reason": "개발자 도구 수요 있으나 B2B 규제 높음",
+    "target_kr": "핀테크·게임사 보안팀",
+    "competitors_kr": "Checkmarx, Snyk, 국내 보안솔루션",
+    "localization_key": "CC인증·금융위 보안표준 자동화",
+    "revenue_kr": "월 50만원+ B2B SaaS",
+    "mvp_speed": "3달",
+    "risk_kr": "정부 규제·대기업 경쟁·인증 소요시간",
+    "one_line": "기술 수준 높으나 규제 선결 필요 — 권장 안함"
+  },
+  "Weddingkart": {
+    "name": "Weddingkart",
+    "korea_score": 2,
+    "score_reason": "한국은 WhatsApp 거의 미사용·카톡/밴드 중심",
+    "target_kr": "웨딩플래너, 이벤트 매니저",
+    "competitors_kr": "웨플, 웨딩21, 더블유씨씨",
+    "localization_key": "카톡톡 비즈니스·밴드 API 연동 필수",
+    "revenue_kr": "월 19,900원~49,900원",
+    "mvp_speed": "2주",
+    "risk_kr": "WhatsApp 생태계 약함·기존 강자 多",
+    "one_line": "아이디어는 좋으나 한국은 카톡 기반 재설계 필요"
+  },
+  "Sound Rewrite": {
+    "name": "Sound Rewrite",
+    "korea_score": 6,
+    "score_reason": "웹소설·셀프퍼블리싱 시장 성장 중, AI 글쓰기는 신규",
+    "target_kr": "웹소설 작가, 출판 예비 저자",
+    "competitors_kr": "네이버시리즈, 카카오페이지, AI 글쓰기는 신규",
+    "localization_key": "한글 AI 미세조정·카카오페이 연동",
+    "revenue_kr": "월 9,900원~29,900원 SaaS",
+    "mvp_speed": "2주",
+    "risk_kr": "저작권·AI 학습 데이터 윤리 논쟁",
+    "one_line": "시장 수요 있으나 한글 최적화 필수 — 조건부 권장"
+  },
+  "OwnSync Notes": {
+    "name": "OwnSync Notes",
+    "korea_score": 4,
+    "score_reason": "좋은 아이디어지만 노션의 압도적 점유율",
+    "target_kr": "개인정보보호 민감 개발자·작가",
+    "competitors_kr": "노션, Obsidian, 로그로켓",
+    "localization_key": "개인정보보호법 명시·KS인증",
+    "revenue_kr": "월 4,900원~9,900원 SaaS",
+    "mvp_speed": "1주",
+    "risk_kr": "노션의 압도적 기능·가격 경쟁력",
+    "one_line": "차별화 약함 — 비추천"
+  },
+  "24Library Study Room Manager": {
+    "name": "24Library Study Room Manager",
+    "korea_score": 8,
+    "score_reason": "한국 스터디카페·독서실 시장 직격, 관리 도구 수요 높음",
+    "target_kr": "스터디카페 운영자, 독서실, 학원",
+    "competitors_kr": "직접 경쟁 없음 (관리 도구 신규)",
+    "localization_key": "카톡톡 알림·네이버페이·결제 자동화",
+    "revenue_kr": "월 9,900원~49,900원 (규모별)",
+    "mvp_speed": "1주",
+    "risk_kr": "로컬 영업 필요·카톡 정책 변경 위험",
+    "one_line": "한국 시장 직격·빠른 수익화 가능 — 강력 권장"
+  },
+  "Kova": {
+    "name": "Kova",
+    "korea_score": 7,
+    "score_reason": "MZ 콘텐츠 크리에이터 시장 성장·숏폼 수요 급증",
+    "target_kr": "유튜브 크리에이터, 튜토리얼 제작자",
+    "competitors_kr": "캡쳐, 클립만, Adobe Premiere",
+    "localization_key": "유튜브/숏폼 최적화·한국 배경음악 라이센스",
+    "revenue_kr": "월 9,900원~29,900원 SaaS",
+    "mvp_speed": "2주",
+    "risk_kr": "음악 저작권·플랫폼 알고리즘 변화",
+    "one_line": "시장 타이밍 좋음, 한국화 추가 후 권장"
+  },
+  "Designer's Toolkit by Domino Effect": {
+    "name": "Designer's Toolkit by Domino Effect",
+    "korea_score": 7,
+    "score_reason": "프리랜서 시장 성숙·가격책정 도구 수요 있음",
+    "target_kr": "프리랜스 그래픽/UI디자이너",
+    "competitors_kr": "당근마켓, 숨고 (플랫폼), 도구 자체는 신규",
+    "localization_key": "세금계산서·프리랜서세법 자동화",
+    "revenue_kr": "월 4,900원~9,900원 SaaS",
+    "mvp_speed": "1주",
+    "risk_kr": "세금 자문 법적 책임·저가 경쟁",
+    "one_line": "수요 확실·한국 세법 모듈 추가 후 권장"
+  },
+  "Draper": {
+    "name": "Draper",
+    "korea_score": 3,
+    "score_reason": "기능 명확하지 않음·경쟁사 多·차별화 약함",
+    "target_kr": "마케팅 담당자, 성장팀",
+    "competitors_kr": "Semrush, Ahrefs, 시선데이터",
+    "localization_key": "특정 정보 불명확",
+    "revenue_kr": "월 29,900원+ SaaS (추정)",
+    "mvp_speed": "3달",
+    "risk_kr": "경쟁사 우위·API 변경 리스크",
+    "one_line": "차별화 명확하지 않음 — 비추천"
+  },
+  "Directai": {
+    "name": "Directai",
+    "korea_score": 6,
+    "score_reason": "로컬 AI 수요 증가·개인정보보호 이슈, 경쟁사 多",
+    "target_kr": "개발자, 크리에이터, 프라이버시 민감층",
+    "competitors_kr": "Ollama, LM Studio, Claude Desktop",
+    "localization_key": "한글 모델 최적화·네이버 HyperCLOVA 지원",
+    "revenue_kr": "프리미엄 모델 마켓플레이스 (약함)",
+    "mvp_speed": "1주",
+    "risk_kr": "경쟁사 多·수익화 어려움",
+    "one_line": "기술 좋으나 경쟁 심함·수익화 선결 필요"
+  },
+  "OfferFlowAI": {
+    "name": "OfferFlowAI",
+    "korea_score": 5,
+    "score_reason": "채용 이메일 기반이나 한국은 카톡/핸드폰 문자 중심",
+    "target_kr": "취업 준비생, 직무 전환자",
+    "competitors_kr": "잡코리아, 커리어, 사람인 (플랫폼)",
+    "localization_key": "카톡 오퍼 알림·SMS 연동 필수",
+    "revenue_kr": "월 4,900원~9,900원 SaaS",
+    "mvp_speed": "1주",
+    "risk_kr": "한국은 이메일 기반 채용 프로세스 약함",
+    "one_line": "아이디어 좋으나 한국은 카톡/SMS 기반 재설계 필요"
+  }
+}
