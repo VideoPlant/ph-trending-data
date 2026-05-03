@@ -1,5 +1,31 @@
 [
   {
+    "collected_at": "2026-05-03T16:40:45.999150Z",
+    "week_label": "W18-2026",
+    "count": 20,
+    "new_entries_count": 10,
+    "top3": [
+      {
+        "name": "Radar",
+        "tagline": "The missing open-source Kubernetes UI",
+        "votes": 233,
+        "url": "https://www.producthunt.com/products/radar-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "Huddle01 VMs",
+        "tagline": "Virtual Machines for Your Agents",
+        "votes": 225,
+        "url": "https://www.producthunt.com/products/huddle01-cloud-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "Mockin 2.0",
+        "tagline": "Ultimate career toolkit for UX/UI & Product designers",
+        "votes": 208,
+        "url": "https://www.producthunt.com/products/mockin-for-product-designers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      }
+    ]
+  },
+  {
     "file": "ph_20260422_1657.json",
     "collected_at": "2026-04-22T16:57:00Z",
     "count": 20,
