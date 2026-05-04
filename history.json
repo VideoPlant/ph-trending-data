@@ -1,5 +1,31 @@
 [
   {
+    "collected_at": "2026-05-04T09:00:43.054752Z",
+    "week_label": "W19-2026",
+    "count": 20,
+    "new_entries_count": 10,
+    "top3": [
+      {
+        "name": "BuyBye!",
+        "tagline": "Shared grocery lists. No account. Works offline. Free.",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/buybye-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "DigiCalc",
+        "tagline": "Free calculators & converters for math, health & finance",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/digicalc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "unstar.app",
+        "tagline": "AI tells you exactly why users hate your app",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/unstar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-03T16:40:45.999150Z",
     "week_label": "W18-2026",
     "count": 20,
