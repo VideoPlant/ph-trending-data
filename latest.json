@@ -1,192 +1,184 @@
 [
   {
     "rank": 1,
-    "name": "BuyBye!",
-    "tagline": "Shared grocery lists. No account. Works offline. Free.",
+    "name": "MarkIt",
+    "tagline": "Trade compliance infrastructure for import workflows",
     "votes": 0,
-    "comments": 1,
-    "url": "https://www.producthunt.com/products/buybye-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/ILDGC7JI2DCQ2R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "comments": 0,
+    "url": "https://www.producthunt.com/products/markit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/BLQ2OP3LHAPVOT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:00:00Z",
     "topics": [
-      "Productivity",
-      "Shopping",
-      "Family"
+      "Pitch Singapore"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 2,
-    "name": "DigiCalc",
-    "tagline": "Free calculators & converters for math, health & finance",
+    "name": "Xena Intelligence",
+    "tagline": "Amazon growth analytics for CPG brands",
     "votes": 0,
-    "comments": 1,
-    "url": "https://www.producthunt.com/products/digicalc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/BDTAKTYGML2KRU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "comments": 0,
+    "url": "https://www.producthunt.com/products/xena-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/IUR555QDG7MWCA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:00:00Z",
     "topics": [
-      "Productivity",
-      "Education",
-      "Developer Tools"
+      "Pitch Singapore"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 3,
-    "name": "unstar.app",
-    "tagline": "AI tells you exactly why users hate your app",
+    "name": "Quest",
+    "tagline": "Marketplace for errands, gigs, and on-demand help",
     "votes": 0,
-    "comments": 1,
-    "url": "https://www.producthunt.com/products/unstar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/PMPLRAJTFFORFD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "comments": 0,
+    "url": "https://www.producthunt.com/products/quest-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/PDGJHZSAYVPYDF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:00:00Z",
     "topics": [
-      "Marketing",
-      "Developer Tools",
-      "Artificial Intelligence"
+      "Pitch Singapore"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 4,
-    "name": "YouTube CLI, MCP server, Skill and Agent",
-    "tagline": "AI-powered toolkit that grows YouTube channel on autopilot",
+    "name": "Laraplugins Mcp Server",
+    "tagline": "let your agent find healthy packages without hallucinations",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/yutu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/7OG4LFXKD3PFED?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/laraplugins-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/USV33TEVCCEZEI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Marketing",
+      "Developer Tools",
       "Artificial Intelligence",
-      "GitHub",
-      "YouTube"
+      "Development"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 5,
-    "name": "TheFalse v0.2.0",
-    "tagline": "Read, track, and share books — with an AI that knows you",
+    "name": "Kominiti",
+    "tagline": "Communities for learning, jobs, and growth",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/thefalse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/UBSCP3MF7PQMFM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/kominiti?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/GYI7D5JJ72EPNX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Social Media",
-      "Artificial Intelligence",
-      "Books"
-    ],
-    "maker": "[REDACTED]"
-  },
-  {
-    "rank": 6,
-    "name": "GhostJob",
-    "tagline": "See if a job is real before you apply — ghost score 0–100",
-    "votes": 0,
-    "comments": 1,
-    "url": "https://www.producthunt.com/products/ghostjob-ghost-job-detector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/PXLBBOBPXD5S3A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
-    "topics": [
-      "Chrome Extensions",
-      "Productivity",
+      "Android",
+      "Education",
+      "Social Networking",
       "Career"
     ],
     "maker": "[REDACTED]"
   },
   {
-    "rank": 7,
-    "name": "BandsManager",
-    "tagline": "The all-in-one toolkit for working bands.",
+    "rank": 6,
+    "name": "Oops Again",
+    "tagline": "Birthday Reminders & Widgets",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/bandsmanager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/45N675SAWF2HMG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/oops-again?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/GOJGHKCYPLMW2L?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Android",
-      "Productivity",
-      "Music",
-      "Artificial Intelligence"
+      "iOS",
+      "Privacy",
+      "Apple"
     ],
     "maker": "[REDACTED]"
   },
   {
-    "rank": 8,
-    "name": "VeloxDB — Fast PostgreSQL Admin Tool",
-    "tagline": "PostgreSQL management, built for developers",
+    "rank": 7,
+    "name": "Professional Resume Builder",
+    "tagline": "Adding voucher codes in comments for forever usage!",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/veloxdb-fast-postgresql-admin-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/DGJHL54WRSXJ4I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/professional-resume-builder-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/RTBHIALBWEGXQQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Design Tools",
-      "Open Source",
-      "GitHub"
+      "iOS",
+      "Productivity"
+    ],
+    "maker": ""
+  },
+  {
+    "rank": 8,
+    "name": "GenTok",
+    "tagline": "One Discord bot for AI image, video, and music generation",
+    "votes": 0,
+    "comments": 1,
+    "url": "https://www.producthunt.com/products/gentok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/CDLHHF5VXI2IG3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T08:30:00Z",
+    "topics": [
+      "Artificial Intelligence",
+      "Bots"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 9,
-    "name": "Moinaki — ADHD-friendly learning",
-    "tagline": "Learning for brains that don't finish online courses",
+    "name": "Geco",
+    "tagline": "Level up your Telegram experience with Geco.",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/moinaki-adhd-friendly-learning?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/3ARAOVP7HC4QN2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/geco?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/CP6JQNV2Y4QOML?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Productivity",
-      "Education",
-      "Artificial Intelligence"
+      "Messaging",
+      "Games",
+      "Web3"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 10,
-    "name": "paybeam.",
-    "tagline": "create & sell digital products/generate crypto payment links",
+    "name": "Bruin",
+    "tagline": "The AI data agent that collaborates with your team",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/paybeam?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/VIMEBPBPGHPPUO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/bruin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/QTY5QSL3MRBH4I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Crypto",
-      "Cryptocurrency",
-      "Blockchain"
+      "Analytics",
+      "Artificial Intelligence",
+      "Data & Analytics"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 11,
-    "name": "SlotBook",
-    "tagline": "The booking platform built for Barbershops, Salons, and Spas",
+    "name": "SonnetPulse",
+    "tagline": "A Light Weight Offline LaTeX Workspace",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/slotbook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/Y6EWLI4ZB7KFM5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/sonnetpulse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/5BV7TQCSLAWGQA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Productivity",
-      "SaaS",
-      "Calendar"
+      "Education",
+      "Text Editors",
+      "GitHub"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 12,
-    "name": "Bank2Excel",
-    "tagline": "Turn any bank statement PDF into Excel in seconds",
+    "name": "Budgetella",
+    "tagline": "Snap a receipt. AI does the rest. Your money, your data.",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/bank2excel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/W4H5TKOJ6FLBC7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/budgetella?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/OCGDFE3KYOTVSF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
+      "iOS",
       "Productivity",
       "Finance"
     ],
@@ -194,128 +186,126 @@
   },
   {
     "rank": 13,
-    "name": "VisuStock",
-    "tagline": "AI image generator",
+    "name": "Wubble.ai",
+    "tagline": "AI audio studio for music, voices, and sound effects",
     "votes": 0,
-    "comments": 1,
-    "url": "https://www.producthunt.com/products/visustock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/F2XYQ4U7BRHGAH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "comments": 0,
+    "url": "https://www.producthunt.com/products/wubble-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/4KP4PMBBSP7GHK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:00:00Z",
     "topics": [
-      "Photography"
+      "Pitch Singapore"
     ],
-    "maker": "[REDACTED]"
+    "maker": ""
   },
   {
     "rank": 14,
-    "name": "SpeedChat Academy",
-    "tagline": "Get Claude certified. Built on Anthropic's curriculum. ",
+    "name": "PromoFinder",
+    "tagline": "Free YouTube sponsor research — no signup, instant results",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/speedchat-academy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/DM5CEB4EWMUTQX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/promofinder-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/K4CMUU3MDKMHEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Productivity",
-      "Education",
-      "Artificial Intelligence"
-    ],
-    "maker": "[REDACTED]"
-  },
-  {
-    "rank": 15,
-    "name": "Thumbnailed",
-    "tagline": "Generate YouTube thumbnails straight from your video.",
-    "votes": 0,
-    "comments": 1,
-    "url": "https://www.producthunt.com/products/thumbnailed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/DFK6DQZ6LNQC52?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
-    "topics": [
-      "Design Tools",
+      "Analytics",
       "Marketing",
       "YouTube"
     ],
     "maker": "[REDACTED]"
   },
   {
-    "rank": 16,
-    "name": "Food Fuson App",
-    "tagline": "AI-generated fusion recipes from any two world cuisines",
+    "rank": 15,
+    "name": "Hoogly.ai",
+    "tagline": "Turn employee voice into meaningful action using AI",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/food-fuson-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/Z5W744QS6ILBGJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/hoogly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/TB5MXR4Q76PYGH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:00:00Z",
     "topics": [
-      "Cooking",
+      "Human Resources",
+      "Pitch Singapore"
+    ],
+    "maker": "[REDACTED]"
+  },
+  {
+    "rank": 16,
+    "name": "DecisionBox for PostgreSQL",
+    "tagline": "Autonomous AI discovery, safe on a production Postgres.",
+    "votes": 0,
+    "comments": 1,
+    "url": "https://www.producthunt.com/products/decisionbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/YBAU2PDWYHZJQG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
+    "topics": [
+      "Open Source",
       "Artificial Intelligence",
-      "Food & Drink"
+      "GitHub",
+      "Data & Analytics"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 17,
-    "name": "FUSH",
-    "tagline": "FUSH — your local gig marketplace",
+    "name": "shout",
+    "tagline": "Twitch for terminals — broadcast, replay, embed",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/fush?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/NQNL7PFYKPXVHL?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/shout-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/MTLUXFXA4MQ7GM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Android",
-      "Productivity",
-      "Freelance",
-      "Delivery"
+      "Open Source",
+      "Developer Tools",
+      "Artificial Intelligence",
+      "GitHub"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 18,
-    "name": "NextZentAI",
-    "tagline": "No-Code Platform for Custom AI Agents",
+    "name": "Boy and a Scanner",
+    "tagline": "AI-powered scanner frequency assistant for hobbyists",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/nextzentai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/PY7YIZYS45NVTM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/boy-and-a-scanner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/POB7DEEOQNSSIW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "SaaS",
+      "Productivity",
       "Artificial Intelligence",
-      "Bots"
+      "Maps"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 19,
-    "name": "Go Pustak Bill",
-    "tagline": "India’s simplest GST invoice tool for freelancers & SMBs",
+    "name": "Percio",
+    "tagline": "AI powered usability testing",
     "votes": 0,
     "comments": 1,
-    "url": "https://www.producthunt.com/products/go-pustak-bill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/HDY7OFNCKDJZV3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "url": "https://www.producthunt.com/products/percio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/RVJDQGVD7RNAUD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Productivity",
-      "Fintech",
-      "SaaS"
+      "Design Tools",
+      "Developer Tools",
+      "Tech"
     ],
     "maker": "[REDACTED]"
   },
   {
     "rank": 20,
-    "name": "Roster",
-    "tagline": "Ship Winning Creator Ads in Days",
+    "name": "Nexus Template Kit",
+    "tagline": "Award-winning dark mode website template for AI startups.",
     "votes": 0,
-    "comments": 0,
-    "url": "https://www.producthunt.com/products/roster-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "website": "https://www.producthunt.com/r/CPNDXLTH6PES3Q?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
-    "created_at": "2026-05-04T07:01:00Z",
+    "comments": 1,
+    "url": "https://www.producthunt.com/products/nexus-template-kit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "website": "https://www.producthunt.com/r/UUC3MZK3GKTMEW?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29",
+    "created_at": "2026-05-11T07:01:00Z",
     "topics": [
-      "Marketing",
-      "SaaS",
-      "E-Commerce"
+      "Design templates"
     ],
     "maker": "[REDACTED]"
   }

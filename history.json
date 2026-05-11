@@ -1,5 +1,31 @@
 [
   {
+    "collected_at": "2026-05-11T09:00:40.796372Z",
+    "week_label": "W20-2026",
+    "count": 20,
+    "new_entries_count": 10,
+    "top3": [
+      {
+        "name": "MarkIt",
+        "tagline": "Trade compliance infrastructure for import workflows",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/markit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "Xena Intelligence",
+        "tagline": "Amazon growth analytics for CPG brands",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/xena-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "Quest",
+        "tagline": "Marketplace for errands, gigs, and on-demand help",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/quest-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-04T09:00:43.054752Z",
     "week_label": "W19-2026",
     "count": 20,
