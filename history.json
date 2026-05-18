@@ -1,5 +1,31 @@
 [
   {
+    "collected_at": "2026-05-18T09:00:41.686672Z",
+    "week_label": "W21-2026",
+    "count": 20,
+    "new_entries_count": 10,
+    "top3": [
+      {
+        "name": "Wonder PDF",
+        "tagline": "A powerful PDF converter combining multiple file format",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/wonder-pdf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "Easymony",
+        "tagline": "Productivity or Finance , these get the most traffic on PH",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/easymony?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      },
+      {
+        "name": "EstudIA",
+        "tagline": "A high school student built the study app he wished existed",
+        "votes": 0,
+        "url": "https://www.producthunt.com/products/estudia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+keyword-scout+%28ID%3A+283005%29"
+      }
+    ]
+  },
+  {
     "collected_at": "2026-05-11T09:00:40.796372Z",
     "week_label": "W20-2026",
     "count": 20,
